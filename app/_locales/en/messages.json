@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "hatemove",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Show Hatena Bookmark count for moved pages.",
+    "description": "The description of the application"
+  }
+}

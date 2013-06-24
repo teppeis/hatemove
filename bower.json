@@ -1,0 +1,12 @@
+{
+  "name": "hatemove",
+  "version": "0.1.0",
+  "dependencies": {
+    "jquery": "~2.0.0",
+    "mustache": "~0.7.2"
+  },
+  "devDependencies": {
+    "expect": "~0.2.0",
+    "sinon": "http://sinonjs.org/releases/sinon-1.7.1.js"
+  }
+}

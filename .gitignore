@@ -1,0 +1,10 @@
+app/components
+app/scripts
+app/styles
+app/typescripts/*.js
+app/typings/DefinitelyTyped
+dist
+node_modules
+npm-debug.log
+test/spec
+test/spec.ts/*.js

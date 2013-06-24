@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "hatemove",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "URL移転前のはてなブックマーク数を表示します。",
+    "description": "The description of the application"
+  }
+}
