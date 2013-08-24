@@ -15,12 +15,12 @@ module hatemove {
         recommend_tags?: string[];
         eid?: string;
         entry_url?: string;
-        isBookmarked?: bool;
+        isBookmarked?: boolean;
         bookmarked_data?: {
             user: string;
             epoch: number;
             comment_raw: string;
-            private: bool;
+            private: boolean;
             eid: string;
             permalink: string;
             tags: string[];
