@@ -1,6 +1,8 @@
 hatemove
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/teppeis/hatemove.svg)](https://greenkeeper.io/)
+
 URL移転前のはてなブックマーク数を表示するChrome拡張です。  
 アイコンをクリックすると、移転前のはてなブックマークのページを開きます。  
 アイコンの色で自分がブックマークしたかどうか分かります。  
